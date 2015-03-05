@@ -1,0 +1,11 @@
+it highlighted the text differences
+It allows the opportunity to revert to previous versions easily
+it allows experimentation 
+it allows you to understand a file's evolution
+
+What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having versions automatically saved, like Google docs does?
+Auto saving makes a mess out of source code.
+
+Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like Google Docs, treat each file separately?
+because some work on documents, and some on systems of files.
+
